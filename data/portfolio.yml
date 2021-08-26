@@ -1,6 +1,6 @@
 ---
 item:
-- image: images/portfolio/sfml.png
+- image: "/images/sfml.png"
   project_url: ''
   category: []
 clients_logo_slider:
