@@ -9,15 +9,16 @@ main = []
 address = "35 avenue du docteur Chavent 73400 Ugine"
 author = "Johnathan Smith"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
+description = ""
 email = "loicviard12@gmail.com"
-google_analitycs_id = "Your ID"
+google_analitycs_id = ""
 home = "Home"
 logo = ""
 phone = "07 50 57 81 87"
+social = []
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
@@ -36,15 +37,3 @@ URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
 enable = true
 preloader = ""
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
