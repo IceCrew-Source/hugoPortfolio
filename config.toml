@@ -1,18 +1,20 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "fr"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Loïc Viard-Crétat portfolio"
+[menu]
+main = []
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+address = "35 avenue du docteur Chavent 73400 Ugine"
 author = "Johnathan Smith"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "loicviard12@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
-phone = "+880 2544 658 256"
+logo = ""
+phone = "07 50 57 81 87"
 theme_color = "#41228e"
 [params.contact]
 enable = true
