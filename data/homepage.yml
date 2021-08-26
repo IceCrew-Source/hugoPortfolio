@@ -4,7 +4,8 @@ banner:
 about:
   enable: true
   content: |-
-    Je suis très intéressé par la conception et la création de sites web. Je souhaiterais devenir développeur Front End ou intégrateur web.
+    Je suis très intéressé par la conception et la création de sites web, que ce soit au niveau de l'expérience ou de l'interface utilisateur.
+    Ces deux notions ainsi que l'ergonomie sont pour moi primordiales lors de la conception d'une application / d'un site web.
     Très dynamique, je sais m'adapter à toutes sortes de situations me permettant de gérer au mieux les différents problèmes rencontrés.
   button:
     enable: false
