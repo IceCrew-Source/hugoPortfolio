@@ -24,7 +24,7 @@ skill:
     color: "#985F99"
   - title: Swift
     progress: 30%
-    color: ''
+    color: "#BFEDC1"
   - title: Kotlin
     progress: 30%
     color: ''
