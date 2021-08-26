@@ -23,7 +23,7 @@ sections:
   path: content/interets
   label: Centres d’intérêts
   create: none
-  match: "**/*"
+  match: "*"
 - type: directory
   path: data
   label: Data
