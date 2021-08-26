@@ -16,17 +16,17 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Java
+    progress: 50%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
-    color: "#9473e6"
-  - title: After Effects
-    progress: 80%
-    color: "#bdecf6"
-  - title: Web App
+  - title: JavaScript
     progress: 70%
+    color: "#9473e6"
+  - title: TypeScript
+    progress: 60%
+    color: "#bdecf6"
+  - title: SCSS
+    progress: 80%
     color: "#ffbcaa"
 experience:
   enable: true
@@ -41,9 +41,9 @@ experience:
     company: 'Leader Price, Ugitech, La Halle, Camaieu, commune d’Albertville '
     duration: 2019 (1 mois et demi)
   - logo: images/experience/icon-1.png
-    title: Senior UI Designer
-    company: THEMEFISHER
-    duration: Sep 2014 - Present
+    title: Emploi d’été - Service Administratif
+    company: Mairie d’Ugine
+    duration: 2018 (1 mois)
 education:
   enable: true
   title: Education
