@@ -58,9 +58,6 @@ education:
       Numérique
     year: "2018"
     academy: Lycée Renée Perrin Ugine
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
 service:
   enable: false
   title: Services
