@@ -1,5 +1,8 @@
 ---
 item:
+- image: "/images/unnamed.jpg"
+  project_url: https://github.com/LPDIM-ANNECY/FindMe-main
+  category: ''
 - image: "/images/sfml.png"
   project_url: ''
   category: []
