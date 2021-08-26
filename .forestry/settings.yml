@@ -5,22 +5,25 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/portfolio
-  label: Portfolio
+  path: content/formations
+  label: Formations
   create: none
   match: "*"
 - type: directory
-  path: content/blog
-  label: Post
-  create: documents
-  match: "*"
-  templates:
-  - post
-- type: directory
-  path: content/about
-  label: About
+  path: content/experiences
+  label: Expériences professionnelles
   create: none
   match: "*"
+- type: directory
+  path: content/competences
+  label: Compétences
+  create: none
+  match: "*"
+- type: directory
+  path: content/interets
+  label: Centres d’intérêts
+  create: none
+  match: "**/*"
 - type: directory
   path: data
   label: Data
