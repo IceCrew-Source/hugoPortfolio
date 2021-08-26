@@ -16,6 +16,12 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: C#
+    progress: 50%
+    color: ''
+  - title: PHP
+    progress: 40%
+    color: ''
   - title: Swift
     progress: 30%
     color: ''
