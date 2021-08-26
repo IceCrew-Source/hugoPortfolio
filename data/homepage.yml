@@ -16,6 +16,12 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Swift
+    progress: 30%
+    color: ''
+  - title: Kotlin
+    progress: 30%
+    color: ''
   - title: SQL
     progress: 70%
     color: "#2D3047"
