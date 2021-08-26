@@ -17,7 +17,7 @@ skill:
   title: Skills
   item:
   - title: C#
-    progress: 50%
+    progress: 40%
     color: ''
   - title: PHP
     progress: 40%
