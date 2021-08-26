@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: SQL
+    progress: 70%
+    color: "#2D3047"
   - title: Java
     progress: 50%
     color: "#fdb157"
