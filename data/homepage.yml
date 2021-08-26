@@ -21,7 +21,7 @@ skill:
     color: "#A799B7"
   - title: PHP
     progress: 40%
-    color: ''
+    color: "#985F99"
   - title: Swift
     progress: 30%
     color: ''
