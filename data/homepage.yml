@@ -14,7 +14,7 @@ about:
     URL: about
 skill:
   enable: true
-  title: Skills
+  title: Compétences
   item:
   - title: Java
     progress: 50%
