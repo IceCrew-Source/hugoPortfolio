@@ -45,7 +45,7 @@ skill:
     color: "#BFEDC1"
 experience:
   enable: true
-  title: Experience
+  title: Expériences
   item:
   - logo: images/experience/icon-1.png
     title: 'Stage – Contrat à durée déterminée – Alternance '
