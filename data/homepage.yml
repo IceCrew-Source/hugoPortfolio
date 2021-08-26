@@ -48,9 +48,9 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
+  - title: Licence professionnelle Développeur Informatique Multi-supports (DIM)
+    year: "2021"
+    academy: IUT Annecy-le-Vieux
   - title: Honours in Fine Arts
     year: "2004"
     academy: Harvard University
