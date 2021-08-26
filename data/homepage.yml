@@ -27,7 +27,7 @@ skill:
     color: "#BFEDC1"
   - title: Kotlin
     progress: 30%
-    color: ''
+    color: "#FFE74C"
   - title: SQL
     progress: 70%
     color: "#2D3047"
