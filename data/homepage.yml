@@ -16,21 +16,6 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: C#
-    progress: 40%
-    color: "#A799B7"
-  - title: PHP
-    progress: 40%
-    color: "#985F99"
-  - title: Swift
-    progress: 30%
-    color: "#BFEDC1"
-  - title: Kotlin
-    progress: 30%
-    color: "#FFE74C"
-  - title: SQL
-    progress: 70%
-    color: "#2D3047"
   - title: Java
     progress: 50%
     color: "#fdb157"
@@ -43,6 +28,21 @@ skill:
   - title: SCSS
     progress: 80%
     color: "#ffbcaa"
+  - title: SQL
+    progress: 70%
+    color: "#2D3047"
+  - title: PHP
+    progress: 40%
+    color: "#985F99"
+  - title: C#
+    progress: 40%
+    color: "#A799B7"
+  - title: Kotlin
+    progress: 30%
+    color: "#FFE74C"
+  - title: Swift
+    progress: 30%
+    color: "#BFEDC1"
 experience:
   enable: true
   title: Experience
